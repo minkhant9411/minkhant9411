@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi 👋 I'm Aung Min Khant
+> ###  Web Developer 💻
 
-<!--
-**minkhant9411/minkhant9411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for job!
+- 🌱 I’m currently learning laravel , vue and others.
+  <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- 🤔 I’m looking for help with ...-->
+<!-- 💬 Ask me about ...-->
+- 📫 How to reach me: minkhant9411@gmail.com
+<!-- 😄 Pronouns: ...-->
+- ⚡ Fun fact: you can call me echo 🧐
+- check my repos https://github.com/minkhant9411?tab=repositories 🤙
